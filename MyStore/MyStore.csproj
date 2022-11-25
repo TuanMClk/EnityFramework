@@ -130,6 +130,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\CatalogiesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ProductsController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -149,6 +150,17 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="wwwroot\WineImages\h0.png" />
+    <Content Include="wwwroot\WineImages\h1.png" />
+    <Content Include="wwwroot\WineImages\h10.png" />
+    <Content Include="wwwroot\WineImages\h2.png" />
+    <Content Include="wwwroot\WineImages\h3.png" />
+    <Content Include="wwwroot\WineImages\h4.png" />
+    <Content Include="wwwroot\WineImages\h5.png" />
+    <Content Include="wwwroot\WineImages\h6.png" />
+    <Content Include="wwwroot\WineImages\h7.png" />
+    <Content Include="wwwroot\WineImages\h8.png" />
+    <Content Include="wwwroot\WineImages\h9.png" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
@@ -179,6 +191,11 @@
     <Content Include="Views\Catalogies\Details.cshtml" />
     <Content Include="Views\Catalogies\Edit.cshtml" />
     <Content Include="Views\Catalogies\Index.cshtml" />
+    <Content Include="Views\Products\Create.cshtml" />
+    <Content Include="Views\Products\Delete.cshtml" />
+    <Content Include="Views\Products\Details.cshtml" />
+    <Content Include="Views\Products\Edit.cshtml" />
+    <Content Include="Views\Products\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

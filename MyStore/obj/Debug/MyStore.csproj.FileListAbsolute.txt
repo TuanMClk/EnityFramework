@@ -158,7 +158,6 @@ E:\ASP.NET\WineStore\MyStore\bin\System.Web.WebPages.Razor.xml
 E:\ASP.NET\WineStore\MyStore\bin\Newtonsoft.Json.xml
 E:\ASP.NET\WineStore\MyStore\bin\Antlr3.Runtime.pdb
 E:\ASP.NET\WineStore\MyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\ASP.NET\WineStore\MyStore\obj\Debug\MyStore.csproj.AssemblyReference.cache
 E:\ASP.NET\WineStore\MyStore\obj\Debug\MyStore.csproj.CoreCompileInputs.cache
 E:\ASP.NET\WineStore\MyStore\obj\Debug\MyStore.csproj.CopyComplete
 E:\ASP.NET\WineStore\MyStore\obj\Debug\MyStore.dll
